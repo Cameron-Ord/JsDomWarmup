@@ -1,0 +1,22 @@
+#footer{
+
+    display:grid;
+
+    grid-template-columns: 1fr 1fr;
+
+    place-items: center;
+
+    background-color:#FBF5F3;
+
+    min-height: 10vh;
+
+
+    >.footer_span{
+
+
+
+        display: grid;
+
+
+    }
+}

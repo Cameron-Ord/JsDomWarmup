@@ -1,0 +1,31 @@
+@use "header";
+@use "footer";
+
+#page_main{
+
+display: grid;
+
+place-items: center;
+
+min-height: 80vh;
+
+grid-template-columns: 1fr 1fr 1fr;
+
+>.main_span{
+
+display: grid;
+
+background-color: #FBF5F3;
+
+grid-template-rows: 1fr 1fr 1fr;
+
+border-radius: 25px;
+
+>.image_main{
+
+
+}
+
+}
+
+}
